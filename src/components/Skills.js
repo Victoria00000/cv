@@ -38,11 +38,12 @@ export const Skills = () => {
                   <div className="progress-bar" role="progressbar" style={{ width: '65%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <h6> English </h6>
-                <div className="progress">
+                <div className="progress mb-3">
                   <div className="progress-bar" role="progressbar" style={{ width: '15%', background: '#d69384' }} aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"> TALKING </div>
                   <div className="progress-bar" role="progressbar" style={{ width: '15%', background: '#d66384' }} aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"> WRITING </div>
                   <div className="progress-bar" role="progressbar" style={{ width: '30%', background: '#d63384' }} aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"> LISTENING </div>
                 </div>
+
               </div>
             </div>
           </div>
