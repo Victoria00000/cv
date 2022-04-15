@@ -46,8 +46,8 @@ export const Portfolio = () => {
                     <h5 className="card-title"> Coming soon... </h5>
                     <p className="card-text"> FRONTEND proyect with REACT.JS consuming a public API (fakestoreapi.com).
                       And: "dependencies": "axios": "^0.26.1", "bootstrap": "^5.1.3", "font-awesome": "^4.7.0", "node-modules": "^1.0.1", "react": "^17.0.2", "react-dom": "^17.0.2", "react-loading-skeleton": "^3.0.3", "react-redux": "^7.2.6", "react-router": "^6.2.2", "react-router-dom": "^6.2.2", "react-scripts": "5.0.0", "redux": "^4.1.2"</p>
-                    <a href="#" className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
-                    <a href="#" className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
+                    <button className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </button>
+                    <button className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </button>
                   </div>
                 </div>
 
