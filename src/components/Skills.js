@@ -23,19 +23,22 @@ export const Skills = () => {
                   Victoria Andrés
                 </h1>
                 <p className='lead mb-4'>
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an imply dummy text of the printing and typesetting imply dummy text of imply dummy text of the printing and typesetting hhjkhkjh hjk
+                  Expectations:
+                  Right now I would like to dedicate myself 100% to my improvement in the front and English,
+                  and in a few months begin to gradually study the backend. And my
+                  goal for 3 years from now is to be ssr. full stack
                 </p>
                 <h6> JavaScript </h6>
                 <div className="progress mb-3">
-                  <div className="progress-bar" role="progressbar" style={{ width: '80%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{ width: '75%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <h6> React.js </h6>
                 <div className="progress mb-3">
-                  <div className="progress-bar" role="progressbar" style={{ width: '80%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{ width: '75%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <h6> Git </h6>
                 <div className="progress mb-3">
-                  <div className="progress-bar" role="progressbar" style={{ width: '65%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{ width: '60%', background: '#d63384' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <h6> English </h6>
                 <div className="progress mb-3">
