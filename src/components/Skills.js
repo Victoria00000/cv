@@ -23,10 +23,9 @@ export const Skills = () => {
                   Victoria Andrés
                 </h1>
                 <p className='lead mb-4'>
-                  Expectations:
-                  Right now I would like to dedicate myself 100% to my improvement in the front and English,
-                  and in a few months begin to gradually study the backend. And my
-                  goal for 3 years from now is to be ssr. full stack
+                  Today I want to improve my knowledge in frontend development 
+                  and the study of the English language. Also, I want to 
+                  enter the backend world to become a fullstack developer.
                 </p>
                 <h6> JavaScript </h6>
                 <div className="progress mb-3">
