@@ -11,7 +11,7 @@ export const Home = () => {
         Victoria Andrés
       </h4>
       <p className="lead p-3">
-        I currently have 8 months of experience in the world of frontend development,
+        I have almost a year in the world of frontend development,
         I am an active and proactive person, I have ambition and curiosity, I like to
         be in continuous progress, work in a team, I am patient and communicative. I
         hope to be part of a team that allows me to grow as a professional, but also

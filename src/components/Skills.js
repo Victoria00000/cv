@@ -25,7 +25,7 @@ export const Skills = () => {
                 <p className='lead mb-4'>
                   Today I want to improve my knowledge in frontend development 
                   and the study of the English language. Also, I want to 
-                  enter the backend world to become a fullstack developer.
+                  enter to the backend world to become a fullstack developer.
                 </p>
                 <h6> JavaScript </h6>
                 <div className="progress mb-3">

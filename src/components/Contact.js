@@ -1,4 +1,4 @@
-import cv from '../documents/CV-FrontEnd-Jr.-Victoria-Andres.pdf';
+import cv from '../documents/CV FrontEnd Jr. Victoria Andres.pdf';
 
 export const Contact = () => {
   return (
