@@ -1,4 +1,5 @@
 import cv from '../documents/CV FrontEnd Jr. Victoria Andres.pdf';
+import ecv from '../documents/english-cv-victoria-andres-frontend-jr-react.pdf';
 
 export const Contact = () => {
   return (
@@ -10,6 +11,10 @@ export const Contact = () => {
 
       <a href={cv} download className="btn btn-light mt-3 mx-2 p-3 fs-5" style={{ background: '#d63384', color: 'white', maxWidth: '200px', minWidth: '190px' }} >
         Download CV
+      </a>
+
+      <a href={ecv} download className="btn btn-light mt-3 mx-2 p-3 fs-5" style={{ background: '#d63384', color: 'white', maxWidth: '200px', minWidth: '190px' }} >
+        CV Español
       </a>
 
     </div>

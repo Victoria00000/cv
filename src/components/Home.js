@@ -11,11 +11,12 @@ export const Home = () => {
         Victoria Andrés
       </h4>
       <p className="lead p-3">
-        I have almost a year in the world of frontend development,
-        I am an active and proactive person, I have ambition and curiosity, I like to
-        be in continuous progress, work in a team, I am patient and communicative. I
-        hope to be part of a team that allows me to grow as a professional, but also
-        contribute to mutual growth.
+        I currently have about 1 year in the world of frontend development. I am an active and
+        proactive person, I have ambition and curiosity, and I like to be in continuous progress. I am
+        patient and communicative. I hope to be part of a team that allows me to grow up as a
+        professional, but also to contribute to mutual growth.
+        Today I want to perfect myself in frontend development and the study of the English
+        language. Also, I want to enter the backend world to become a fullstack developer.
       </p>
       <div>
         <img src={logo} style={{ width: '240px' }} id='logo' alt='logo' />
