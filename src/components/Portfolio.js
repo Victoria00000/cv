@@ -1,7 +1,8 @@
 import movies from '../img/movies.jpg';
 import store from '../img/store.jpg';
 import contMan from '../img/contMan.jpg';
-import tw from '../img/tw.png';
+import tw from '../img/cemisa.jpg';
+import exp from '../img/expenses.jpg';
 
 export const Portfolio = () => {
   return (
@@ -25,11 +26,11 @@ export const Portfolio = () => {
                   <div className="card-body">
                     <h5 className="card-title"> TrendingMovies </h5>
                     <p className="card-text">
-                      This is one of my first projects, responsive, implementing the integration with an API
-                      and the development of components with CSS grid layout entirely by hand. Also developed in
-                      React using react-infinite-scroll-component to generate the feeling of 'infinite scroll',
-                      react-router-dom for site navigation and the content was obtained by integrating the
-                      'movieDb' API.
+                      Este es uno de mis primeros proyectos, responsivos, implementando la integración
+                      con una API y el desarrollo de componentes con diseño CSS grid enteramente a mano.
+                      También desarrollado en React usando react-infinite-scroll-component para generar
+                      la sensación de ‘scroll infinito’, react-router-dom para la navegación del sitio
+                      y el contenido lo obtuve integrando la API ‘movieDb’.
                     </p>
                     <a href="https://github.com/Victoria00000/MoviesHouse" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
                     <a href="https://trendingmovieshouse.netlify.app/" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
@@ -41,9 +42,9 @@ export const Portfolio = () => {
                   <div className="card-body">
                     <h5 className="card-title"> mySTORE </h5>
                     <p className="card-text">
-                      It is a work of my own that I used to study and practice. In this application I
-                      implemented axios, bootstrap, react-router, redux, react-loading-skeleton. I made
-                      this store consuming the public API 'fakestoreapi.com
+                      Es un trabajo propio de los que utilicé para estudiar y practicar, en esta aplicación
+                      implementé axios, bootstrap, react-router, redux, react-loading-skeleton. Esta tienda la
+                      realicé consumiendo la API pública ‘fakestoreapi.com’
                     </p>
                     <a href="https://github.com/Victoria00000/E-COMMERCE-APP" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
                     <a href="https://velvety-starlight-bdc5ea.netlify.app/" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
@@ -55,10 +56,10 @@ export const Portfolio = () => {
                   <div className="card-body">
                     <h5 className="card-title"> contact-manager </h5>
                     <p className="card-text">
-                      Another project to improve the study and practice in React, in which I implemented a
-                      CRUD with redux, bootstrap, react-router-dom, react-toastify, in order to achieve an
-                      app that handles contacts in an orderly, visually pleasing and intuitive way, and it
-                      is also responsive to various screen sizes.
+                      Otro proyecto para mejorar el estudio y la práctica en React,  en el cual implementé
+                      un CRUD con redux, bootstrap, react-router-dom, react-toastify, para lograr una app
+                      que maneje los contactos de manera ordenada, visualmente amena e intuitiva, y responsiva
+                      a varios tamaños de pantallas.
                     </p>
                     <a href="https://github.com/Victoria00000/contact-manager-app" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
                     <a href="https://contact-manager-front.netlify.app/" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
@@ -68,16 +69,31 @@ export const Portfolio = () => {
                 <div className="cardbg-dark" style={{ width: '25rem' }}>
                   <img src={tw} className="card-img-top" alt="proyect" height='196px' />
                   <div className="card-body">
-                    <h5 className="card-title"> Collaboration development system for satellite tracking(current) </h5>
+                    <h5 className="card-title"> Sistema de rastreo satelital (CEMISA) </h5>
                     <p className="card-text">
-                      In this project I worked as a frontend developer using React. My main tasks were: the
-                      implementation of a state management library ( Redux ), design and development of
-                      components for the administration panel, implementation of React Hooks for management
-                      of forms and backend integration using axios. My implementations were essential for the
-                      correct management of user information and the performance of the application.
+                      En este proyecto trabajé como desarrollador frontend usando React y Tailwind. Mis tareas
+                      principales fueron: el rediseño de la interfaz de usuario directamente sobre código. Mis
+                      implementaciones fueron fundamentales para la actualización de las tecnologías, que habían
+                      quedado obsoletas,  y la optimización de la UX-UI.
                     </p>
                     <div className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Reference: Eng. Agustín Egidi 3402-659856.
                     </div>
+                  </div>
+                </div>
+
+                <div className="cardbg-dark" style={{ width: '25rem' }}>
+                  <img src={exp} className="card-img-top" alt="proyect" height='196px' />
+                  <div className="card-body">
+                    <h5 className="card-title"> Expenses Tracker - Frontend/backend </h5>
+                    <p className="card-text">
+                      Es un sitio realizado como práctica personal, valiéndome de Tailwind, React, boxicons, react-chartjs-2,
+                      react-redux, mongoose, nodemon, cors, express, dotenv, entre otros recursos. Se trata de una web que te
+                      clasifica tu dinero para su fácil control gracias a sus gráficos y listas. En esta ocasión me animé a hacer
+                      un backend básico para almacenar los datos en una base.
+                    </p>
+                    <a href="https://github.com/Victoria00000" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
+                    <a href="#" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
+                
                   </div>
                 </div>
 
