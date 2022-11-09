@@ -23,9 +23,8 @@ export const Skills = () => {
                   Victoria Andrés
                 </h1>
                 <p className='lead mb-4'>
-                  Hoy deseo perfeccionarme en el desarrollo frontend y el estudio del idioma inglés.
-                  Además, más adelante, quiero introducirme en el mundo del backend para
-                  convertirme en desarrolladora fullstack.
+                  Hoy deseo perfeccionarme en el desarrollo frontend y el estudio del idioma inglés. Además,
+                  recién estoy comenzando a estudiar backend para convertirme en desarrolladora fullstack
                 </p>
                 <h6> JavaScript </h6>
                 <div className="progress mb-3">

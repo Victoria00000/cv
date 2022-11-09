@@ -11,11 +11,11 @@ export const Home = () => {
         Victoria Andrés
       </h4>
       <p className="lead p-3">
-        Actualmente cuento con casi un año en el mundo del desarrollo frontend,
-        con fundamentos básicos en diseño web. Soy una persona activa y proactiva,
-        tengo ambición y curiosidad, me gusta estar en continuo avance, trabajar en equipo,
-        soy paciente y comunicativa. Espero formar parte de un equipo que me permita crecer
-        como profesional, pero también aportar al crecimiento mutuo.
+        Actualmente cuento con más de un año en el mundo del desarrollo frontend, con
+        fundamentos básicos en diseño web. Soy una persona activa y proactiva, tengo ambición y
+        curiosidad, me gusta estar en continuo avance, trabajar en equipo, soy paciente y comunicativa.
+        Espero formar parte de un equipo que me permita crecer como profesional, pero también aportar al
+        crecimiento mutuo.
       </p>
       <div>
         <img src={logo} style={{ width: '240px' }} id='logo' alt='logo' />
