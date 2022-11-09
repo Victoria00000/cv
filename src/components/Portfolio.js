@@ -92,7 +92,7 @@ export const Portfolio = () => {
                       un backend básico para almacenar los datos en una base.
                     </p>
                     <a href="https://github.com/Victoria00000" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> GitHub </a>
-                    <a href="#" target="_blank" rel='noopener noreferrer' className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </a>
+                    <div className="btn btn-light mx-2" style={{ background: '#d63384', color: 'white' }}> Deploy </div>
                 
                   </div>
                 </div>
