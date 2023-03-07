@@ -1,5 +1,5 @@
 import cv from "../documents/CV-Victoria Andrés.docx";
-import ecv from "../documents/CV-English-Victoria-Andrés.pdf";
+import ecv from "../documents/CV-English.docx";
 
 export const Contact = () => {
   return (
